@@ -1,0 +1,37 @@
+name: ml_workspace
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  # Core data science
+  - numpy
+  - pandas
+  - scipy
+  # Machine learning
+  - scikit-learn
+  - xgboost
+  - lightgbm
+  # Visualization
+  - matplotlib
+  - seaborn
+  - plotly
+  # Notebooks
+  - jupyterlab
+  - ipywidgets
+  - ipykernel
+  # Data handling
+  - openpyxl
+  - pyarrow
+  - sqlalchemy
+  # Utilities
+  - tqdm
+  - python-dotenv
+  - pyyaml
+  - joblib
+  # Dev tools
+  - black
+  - isort
+  - pip
+  - pip:
+    - mlflow

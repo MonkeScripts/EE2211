@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pdftotext \"/c/Users/shaol/Documents/ml_workspace/homework/EE2211-PYP-Midterm-AY2526-Sem1.pdf\" -)",
+      "Bash(pdftotext \"/c/Users/shaol/Documents/ml_workspace/homework/Midterm-Trial-AY2526-Sem2_QnA.pdf\" -)",
+      "Bash(pdftotext \"/c/Users/shaol/Documents/ml_workspace/homework/Tutorial 2 Questions.pdf\" -)",
+      "Bash(pdftotext \"/c/Users/shaol/Documents/ml_workspace/homework/Tutorial 3 Questions.pdf\" -)",
+      "Bash(pdftotext \"/c/Users/shaol/Documents/ml_workspace/homework/Tutorial 4 Questions.pdf\" -)",
+      "Bash(pdftotext \"/c/Users/shaol/Documents/ml_workspace/homework/Tutorial 5 Questions.pdf\" -)",
+      "Bash(pdftotext \"/c/Users/shaol/Documents/ml_workspace/homework/Tutorial 6 Questions.pdf\" -)",
+      "Read(//c/Users/shaol/AppData/Local/Programs//**)",
+      "Read(//c/Users/shaol/AppData/Local//**)",
+      "Read(//c/Users/shaol//**)",
+      "Read(//c/ProgramData/**)",
+      "Read(//c/Users/shaol/**)",
+      "Bash(NOTEBOOK_DIR=\"c:/Users/shaol/Documents/ml_workspace/references/EE2211_Tutorials_QQ/Tut_Notebooks\")",
+      "Bash(/c/Users/shaol/anaconda3/python.exe -c \":*)",
+      "Bash(dir:*)",
+      "Bash(wc:*)",
+      "Bash(python3:*)",
+      "Bash(ls:*)"
+    ]
+  }
+}
